@@ -1,0 +1,44 @@
+Level 1: Absolute Beginner
+Challenge 1: Square the numbers from 1 to 10 and store them in a list.
+Expected output: [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+Challenge 2: Given a list of numbers, create a new list that contains only the even numbers.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Expected output: [2, 4, 6, 8, 10]
+
+Level 2: Intermediate
+Challenge 3: Create a list of tuples, where each tuple contains a number and its square from 1 to 5.
+Expected output: [(1, 1), (2, 4), (3, 9), (4, 16), (5, 25)]
+
+Challenge 4: Given a list of words, create a new list that contains the lengths of the words.
+Input: ['apple', 'banana', 'orange']
+Expected output: [5, 6, 6]
+
+Level 3: Advanced
+Challenge 5: Convert a list of temperatures in Celsius to Fahrenheit using the formula (9/5) * Celsius + 32.
+Input: [0, 10, 20, 30, 40]
+Expected output: [32.0, 50.0, 68.0, 86.0, 104.0]
+
+Challenge 6: Given a list of sentences, create a dictionary where the keys are the sentences and the values are the number of words in each sentence.
+Input: ['I love Python', 'Python is a great language', 'Python rocks']
+Expected output: {'I love Python': 3, 'Python is a great language': 5, 'Python rocks': 2}
+
+Level 4: Advanced Data Science
+Challenge 7: Create a dictionary where the keys are the words in a sentence, and the values are the frequency of each word.
+Input: 'I love Python and I love coding in Python'
+Expected output: {'I': 2, 'love': 2, 'Python': 2, 'and': 1, 'coding': 1, 'in': 1}
+
+Challenge 8: Given a list of dictionaries representing students, create a new list that contains the names of students who scored above 80 in their exams.
+Input:
+
+python
+Copy code
+students = [
+    {'name': 'Alice', 'score': 75},
+    {'name': 'Bob', 'score': 90},
+    {'name': 'Charlie', 'score': 80},
+    {'name': 'David', 'score': 95}
+]
+Expected output: ['Bob', 'Charlie', 'David']
+
+These challenges should help you practice and enhance your list and dictionary comprehension skills. Start with the easier ones and gradually move towards the more complex challenges as you gain confidence and experience.
